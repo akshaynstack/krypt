@@ -3,7 +3,9 @@
 
 ## Required Installations
 
- ``` npm install ``` 
+```javascript
+npm install
+```
 ``` npm install react-icons ether ``` 
 ``` npm dev run  ``` 
 
