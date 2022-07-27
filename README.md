@@ -6,7 +6,13 @@
 ```javascript
 npm install
 ```
-``` npm install react-icons ether ``` 
-``` npm dev run  ``` 
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+```javascript
+npm install react-icons ether
+```
+
+```javascript
+npm dev run
+``` 
+
+## KRYPT LIVE DEMO HERE - 
